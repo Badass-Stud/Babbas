@@ -24,4 +24,4 @@ After you have made modifications to it, You MAY NOT publish it to any website (
 
 # Comercial use
 
-If you use our game for comercial use, You will have to credit us in the video. Not in the title, comments, description, but somewhere in the screen (Unless we approve). If not, we must have atleast 60% of the revenue you earn every week.
+If you use our game for comercial use, You will have to credit us in the video. Not in the title, comments, description, but somewhere in the screen (Unless we approve). If not, we must have atleast 80% of the revenue you earn every week.
