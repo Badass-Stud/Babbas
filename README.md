@@ -20,7 +20,7 @@ License and copyright notice
 
 # Where to publish
 
-After you have made modifications to it, You MAY NOT publish it to any website (unless you've credited us in the main menu)
+After you have made modifications to it, You MAY NOT publish it to any website (unless you've been granted access.)
 
 # Comercial use
 
